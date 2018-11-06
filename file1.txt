@@ -1,4 +1,8 @@
 This is a MasterGitInADay test. 
 12:12pm. Ringer. Yeah!!!
 1:34 lab 2
+<<<<<<< HEAD
 2:10 cool-stuff branch 
+=======
+3:57pm lab 3 in master local
+>>>>>>> 85a9b19446abbc7bbaf02cccc74b524f85d2672e
